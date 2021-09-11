@@ -1,0 +1,35 @@
+img:hover {
+  background-color: gold;
+}
+
+
+.bacon {
+color: brown;
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+
+}
+.fish {
+  border-radius: 50%;
+
+}
+#Heading
+{
+  color: gold;
+  text-align: left;
+}
+.alig{
+  text-align: left;
+  color: blue;
+
+}
+.a{
+  text-align: left;
+}
+.b{
+  text-align: left;
+}
+.c{
+  text-align: left;
+}
